@@ -1,0 +1,1 @@
+ use setInterval() to run some function every period of time
